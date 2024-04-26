@@ -1,6 +1,3 @@
-README Formatting for GitHub
-markdown
-Copy code
 # My Folder Traverser Project
 
 ## 1. Setup the Project Environment
@@ -15,15 +12,17 @@ Task 2: Install ESLint
 Install ESLint to ensure the code follows best practices and style guidelines:
 
 
-Copy code
 npm install eslint --save-dev
 npx eslint --init
+
 2. HTML and CSS Setup
+
 Task 3: Create Basic HTML Structure
 Create an index.html file. Add the necessary HTML to handle file input and display the folder contents.
 
-Task 4: Styling with CSS
-Create a styles.css file and style the folder display to be collapsible. This might involve basic CSS for visibility toggling.
+# Task 4: Styling with CSS
+
+# Create a styles.css file and style the folder display to be collapsible. This might involve basic CSS for visibility toggling.
 
 3. JavaScript Development
 Task 5: Create JavaScript File
