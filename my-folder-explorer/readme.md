@@ -1,5 +1,7 @@
 # My Folder Traverser Project
 
+# My steps
+
 ## 1. Setup the Project Environment
 
 ### Task 1: Initialize the Project
@@ -20,9 +22,9 @@ npx eslint --init
 Task 3: Create Basic HTML Structure
 Create an index.html file. Add the necessary HTML to handle file input and display the folder contents.
 
-# Task 4: Styling with CSS
+Task 4: Styling with CSS
 
-# Create a styles.css file and style the folder display to be collapsible. This might involve basic CSS for visibility toggling.
+Create a styles.css file and style the folder display to be collapsible. This might involve basic CSS for visibility toggling.
 
 3. JavaScript Development
 Task 5: Create JavaScript File
